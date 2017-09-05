@@ -27,3 +27,5 @@ pip3 install wavio
 pip3 install adaptfilt
 
 pip3 install PyWavelets
+
+apt-get install python3-tk
